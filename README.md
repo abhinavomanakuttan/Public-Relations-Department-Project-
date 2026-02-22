@@ -29,7 +29,7 @@ The dataset `amazon_alexa.tsv` includes customer reviews for Alexa products, wit
 ### 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/27abhishek27/Public-Relations-Department-Project.git
+git clone https://github.com/abhinavomanakuttan/Public-Relations-Department-Project-.git
 cd Public-Relations-Department-Project
 ```
 
@@ -68,9 +68,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk
 
 Here are some visualizations from the project:
 
-![alt text](https://github.com/27abhishek27/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/barplot.png)
-![alt text](https://github.com/27abhishek27/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/countplot.png)
-![alt text](https://github.com/27abhishek27/Public-Relations-Department-Project/blob/main/Public%20relation%20department%20project%20png/wordcloud.png)
+![alt text](https://github.com/abhinavomanakuttan/Public-Relations-Department-Project-/blob/main/Public%20relation%20department%20project%20png/barplot.png)
+![alt text](https://github.com/abhinavomanakuttan/Public-Relations-Department-Project-/blob/main/Public%20relation%20department%20project%20png/countplot.png)
+
 
 ## 🛠️ Technologies Used
 
